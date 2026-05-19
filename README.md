@@ -1,2 +1,2 @@
 # Haskell-Course-2026
-Homework solutions for Haskell
+Homework and Project solutions for Haskell
